@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/drawable/ic_baseline_dashboard_24.xml" value="0.169" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/activity_maps.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/activity_navigation_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/appbar_lokasi_saat_ini.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/appbar_pencarian_lokasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/appbar_titik_lokasi_sekarang.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/fragment_pencarian_lokasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/layout/fragment_titik_lokasi_sekarang.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/menu/bottoom_navbar_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Naufal/Desktop/UTS/050-034-009-UTS-GA/app/src/main/res/menu/navbar_bottom_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
